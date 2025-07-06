@@ -1,0 +1,5 @@
+
+bundled/*
+go.sum
+main.exe
+bundled.zip
